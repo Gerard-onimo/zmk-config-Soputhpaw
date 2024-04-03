@@ -18,6 +18,7 @@
 #
 ---
 include:
+  - board: Southpaw75
   - board: nice_nano_v2
     Sheild: zodiark_left
     Sheild: zodiark_right
