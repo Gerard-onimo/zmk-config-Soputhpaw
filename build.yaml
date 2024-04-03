@@ -19,4 +19,5 @@
 ---
 include:
   - board: nice_nano_v2
-    Sheild: nice_nano_v2
+    Sheild: zodiark_left
+    Sheild: zodiark_right
