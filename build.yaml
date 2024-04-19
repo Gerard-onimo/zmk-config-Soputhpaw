@@ -19,7 +19,4 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: Southpaw
-   - board: nice_nano_v2
-    shield: Southpaw - board: nice_nano_v2
-    shield: Southpaw
+    shield: Southpaw75
